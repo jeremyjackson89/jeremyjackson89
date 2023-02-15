@@ -1,12 +1,18 @@
-## 👋 Hi, I'm Jeremy!
+## 🙂 About Me
 
-Writing code and making games!
+I make games at [Plato](https://platoapp.com/), a game and messaging app.
 
-### 💻 Stats
+I've also [made and released games](https://jeremytjackson.com/#projects) with people from all around the world via [HomeTeam GameDev](https://hometeamgamedev.com/). 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyjackson89&count_private=true&show_icons=true&include_all_commits=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+### ❤️ Likes
 
-### 🎮 Open source games I've worked on
+Exercising, playing games, reading, guitar, language learning, programmimg, making games and applications 
+
+### 🎮 Favorite Games
+
+Final Fantasy VII, Metal Gear Solid 3, Red Dead Redemption, Spider-Man, Zelda: Breath of the Wild, Grand Theft Auto: San Andreas, Volume, FTL: Faster Than Light, Pokémon Red/Blue, Chrono Trigger, Legend of Legaia, Zone of the Enders 
+
+### 💻 Open Source Games I've Worked On
 
 [![Steel Cavalry](https://github-readme-stats.vercel.app/api/pin/?username=gamkedo-la&repo=steelcavalry&show_owner=true&theme=slateorange)](https://github.com/gamkedo-la/steelcavalry) | [![Hella on the Scene](https://github-readme-stats.vercel.app/api/pin/?username=gamkedo-la&repo=on_the_scene&show_owner=true&theme=slateorange)](https://github.com/gamkedo-la/on_the_scene)
 ---|---
