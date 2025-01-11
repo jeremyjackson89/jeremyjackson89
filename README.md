@@ -1,16 +1,12 @@
 ### About Me
 
-I make games at [Plato](https://platoapp.com/), a game and messaging app.
+I'm a game developer and software engineer from Kentucky.
 
-I've also [made and released games](https://jeremytjackson.com/#projects) with people from all around the world via [HomeTeam GameDev](https://hometeamgamedev.com/). 
+I've [made and released games](https://jeremytjackson.com/#projects) with people from all around the world via [HomeTeam GameDev](https://hometeamgamedev.com/). 
 
 ### Likes
 
 Exercising, playing games, reading, guitar, language learning, problem solving, programmimg, and making games.
-
-### Favorite Games (in no particular order)
-
-Final Fantasy VII, Metal Gear Solid 3, Red Dead Redemption, Zelda: Breath of the Wild, Grand Theft Auto: San Andreas, FTL: Faster Than Light, Pokémon Red/Blue, Chrono Trigger, Legend of Legaia, Zone of the Enders, Alan Wake, Slay the Spire.
 
 ### Open Source Games I've Worked On
 
